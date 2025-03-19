@@ -1,6 +1,6 @@
 # 🌐 OnlyHtmlDw1  
 
-**OnlyHtmlDw1** es un proyecto sencillo desarrollado solo con HTML. Es una práctica inicial para comprender la estructura de documentos HTML sin el uso de CSS o JavaScript.  
+**OnlyHtmlDw1** es un proyecto sencillo desarrollado solo con HTML. Es una práctica para comprender la estructura de documentos HTML sin el uso de CSS o JavaScript.  
 
 ## 📌 Características  
 - 📄 Estructura HTML básica  
